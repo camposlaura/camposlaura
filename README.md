@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=plotly)
-![Plotly](https://img.shields.io/badge/-Dash-333333?style=flat&logo=plotly)
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
