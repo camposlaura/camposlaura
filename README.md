@@ -10,15 +10,15 @@
 
 <p> Entre 2022 e 2024 trabalhei com desenvolvimento web front-end na Minerva Controls, onde minha principal tarefa era o desenvolvimento de projetos para representação de dados obtidos através de digital twins dinâmicos de forma simples e intuitiva.</p>
 
-<p>Atualmente atuo como Estagiária em Desenvolvimento Front-end na Conecta, onde sou responsável pela criação e manutenção de projetos utilizando as tecnologias mais recentes do mercado, com foco na experiência do usuário! Também participo do projeto de extensão vinculado ao Fórum de Fundos Soberanos Brasileiros no qual, como parte da equipe de tecnologia, contribuo ativamente com o desenvolvimento dos softwares oferecidos pela organização, que tem como objetivo fornecer soluções que permitam otimizar a administração de recursos oriundos da exploração de recursos naturais.</p>
+<p> Atualmente atuo como Estagiária em Desenvolvimento Front-end na Conecta, onde sou responsável pela criação e manutenção de projetos utilizando as tecnologias mais recentes do mercado, com foco na experiência do usuário! Também participo do projeto de extensão vinculado ao Fórum de Fundos Soberanos Brasileiros no qual, como parte da equipe de tecnologia, contribuo ativamente com o desenvolvimento dos softwares oferecidos pela organização, que tem como objetivo fornecer soluções que permitam otimizar a administração de recursos oriundos da exploração de recursos naturais. </p>
 
-<p> Além disso, também tenho estudado alguns tópicos de meu interesse no tempo livre. Atualmente meu foco é aprofundar meus conhecimentos em tecnologias para desenvolvimento front-end, em especial HTML, CSS e JavaScript (no futuro, pretendo estudar mais sobre algum framework como React.js ou Vue.js). Também tenho aprendido sobre UX Design e boas práticas no desenvolvimento de software.
+<p> Além disso, também tenho estudado alguns tópicos de meu interesse no tempo livre. Atualmente meu foco é aprofundar meus conhecimentos em tecnologias para desenvolvimento front-end, em especial React.js. Também tenho aprendido sobre UX Design e boas práticas no desenvolvimento de software. </p>
 
 <b> Resumindo... </b>
 
 <p> &numsp; :mortar_board: &nbsp; Estudando Ciência da Computação na Universidade Federal Fluminense; </p>
 <p> &numsp; :computer: &nbsp; Trabalhando com Desenvolvimento Front-end na Conecta; </p>
-<p> &numsp; :books: &nbsp; Aprendendo mais sobre HTML, CSS, Javascript e UX Design; </p>
+<p> &numsp; :books: &nbsp; Aprendendo mais sobre React.js e UX Design; </p>
 
 <h3> Minhas skills </h3>
 
