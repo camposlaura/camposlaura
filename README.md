@@ -38,7 +38,7 @@ Started as a college project at UFF. I kept iterating because I genuinely liked 
 ### <a href="https://github.com/camposlaura/pigbank" target="_blank" rel="noopener noreferrer" style="color: #6b7280 !important; text-decoration: none !important; font-weight: 600;">PigBank</a>
 Vanilla HTML/CSS/JS banking simulation from my first front-end specialization (2021). Kept public because every senior dev has a .appendChild era, and this is mine.
 
-<br>
+<br><br>
 
 <div align="center">
 
