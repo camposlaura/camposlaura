@@ -1,41 +1,50 @@
-<h2> Olá, eu sou a Laura! :sparkles: </h2>
+<div align="center">
 
-<p> Seja bem vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar informações sobre mim e minha carreira profissional e acadêmica, assim como alguns projetos que já desenvolvi e outros que ainda estão em andamento. Para mais detalhes, entre em contato via Email ou Linkedin! </p>
+# Hi, I'm Laura Campos!
 
-<h3> Sobre mim </h3>
+### Front-end Developer with 5+ years of experience building web and mobile, exploring full-stack in side projects.
 
-<p> Em 2019 comecei a cursar Ciência da Computação na UFF, onde descobri o mundo da programação (sim, caí de paraquedas e... foi amor à primeira vista!). Sou bastante curiosa e amo aprender coisas novas, e esse é o meu foco principal desde que iniciei minha caminhada na área. </p>
+<br>
 
-<p> Em 2021 passei a integrar o time da IN Junior, onde tive meu primeiro contato com a área que atuo: o desenvolvimento front-end. Digo com tranquilidade que fazer parte de uma EJ foi uma das melhores experiências que eu poderia ter na universidade, e sou muito grata a cada momento! Durante meu tempo na empresa tive contato com diversas tecnologias, desde Wordpress até React.js, passando por HTML, CSS e Javascript "puros" no caminho. Também aprendi sobre gestão de projetos, design de interfaces e experiência de usuário (uma área que ainda pretendo me aprofundar mais). Sempre fui extrovertida e organizada, e pude desenvolver ainda mais essas habilidades quando assumi a gerência da célula de Marketing, cargo que me deu uma nova visão sobre o que é liderança e como exercê-la. Encerrei meu ciclo na empresa em abril de 2022, trazendo comigo uma bagagem de muitos aprendizados, experiências incríveis e novos amigos. </p>
+<a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
+<a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
 
-<p> Entre 2022 e 2024 trabalhei com desenvolvimento web front-end na Minerva Controls, onde minha principal tarefa era o desenvolvimento de projetos para representação de dados obtidos através de digital twins dinâmicos de forma simples e intuitiva. </p>
+</div>
 
-<p> Atualmente atuo como Desenvolvedora Front-end na Conecta, onde sou responsável pela criação e manutenção de projetos utilizando as tecnologias mais recentes do mercado, com foco na experiência do usuário! Também participo do projeto de extensão vinculado ao Fórum de Fundos Soberanos Brasileiros no qual, como parte da equipe de tecnologia, contribuo ativamente com o desenvolvimento dos softwares oferecidos pela organização, que tem como objetivo fornecer soluções que permitam otimizar a administração de recursos oriundos da exploração de recursos naturais. </p>
+<br>
 
-<p> Além disso, também tenho estudado alguns tópicos de meu interesse no tempo livre. Atualmente meu foco é aprofundar meus conhecimentos em tecnologias para desenvolvimento front-end, em especial React.js. Também tenho aprendido sobre UX Design e boas práticas no desenvolvimento de software. </p>
+## About me
 
-<b> Resumindo... </b>
+My favorite work sits at the intersection of product thinking, UX, and technical discipline. I've developed responsive web apps, published mobile apps, and a few data visualization tools that translate messy numbers (think financial modeling, industrial sensors) into interfaces people actually understand. Most days I move between React, React Native, and TypeScript, with Python showing up when the data side gets serious.
 
-<p> &numsp; :mortar_board: &nbsp; Estudando Ciência da Computação na Universidade Federal Fluminense; </p>
-<p> &numsp; :computer: &nbsp; Trabalhando com Desenvolvimento Front-end na Conecta; </p>
-<p> &numsp; :books: &nbsp; Aprendendo mais sobre React.js e UX Design; </p>
+Right now I'm holding two parallel roles: one local in Niterói/RJ, one remote with a US-based team where every debate is in english. Outside of that I'm deepening my UX/UI practice, leaning into AI-assisted development, and keeping my GitHub honest with side projects that push me into new territory.
 
-<h3> Minhas skills </h3>
+<br>
 
-![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=plotly)
-![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+## Projects I'm proud of
 
-<h3> Onde me encontrar </h3>
+### <a href="https://github.com/camposlaura/b3_stock_viewer" target="_blank" rel="noopener noreferrer" style="color: #6b7280 !important; text-decoration: none !important; font-weight: 600;">B3 Stock Viewer</a>
+Full-stack app to query and visualize B3 stock quotes. React 19 + Vite on the front, Node.js + Express on the back, talking to BRAPI for the data. Server-side caching to absorb repeat queries, virtualized ticker list for smooth scrolling. My first full-stack build, I owned every layer including the API token and the chart edge cases. Built with AI assistance for scaffolding speed.
 
-<a href="https://www.linkedin.com/in/camposlaura" alt="Linkedin">
-	<img src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/camposlaura"/>
-</a>
+### <a href="https://github.com/camposlaura/sudoku" target="_blank" rel="noopener noreferrer" style="color: #6b7280 !important; text-decoration: none !important; font-weight: 600;">Sudoku</a>
+Started as a college project at UFF. I kept iterating because I genuinely liked the problem space: added three difficulty levels, SQLite match history, and a clean Flutter UI. Currently planning a deploy so anyone can play online.
+
+### <a href="https://github.com/camposlaura/pigbank" target="_blank" rel="noopener noreferrer" style="color: #6b7280 !important; text-decoration: none !important; font-weight: 600;">PigBank</a>
+Vanilla HTML/CSS/JS banking simulation from my first front-end specialization (2021). Kept public because every senior dev has a .appendChild era, and this is mine.
+
+<br>
+
+<div align="center">
+
+Rio de Janeiro, BR · CS undergrad at UFF · PT native · EN C1 · ES basic
+
+<a href="https://linkedin.com/in/camposlaura" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lauracamposdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
