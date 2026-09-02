@@ -21,9 +21,9 @@
 
 ## About me
 
-My favorite work sits at the intersection of product thinking, UX, and technical discipline. I've developed responsive web apps, published mobile apps, and a few data visualization tools that translate messy numbers (think financial modeling, industrial sensors) into interfaces people actually understand. Most days I move between React, React Native, and TypeScript, with Python showing up when the data side gets serious.
+My favorite work sits at the intersection of product thinking, UX, and technical discipline. I've developed responsive web apps, published mobile apps, and a few data visualization tools that translate messy numbers (think financial modeling, industrial sensors) into interfaces people actually understand. Most days I move between React, React Native, and TypeScript, with Python showing up when the data side gets serious. I also have experience collaborating with international teams in English.
 
-Right now I'm holding two parallel roles: one local in Niterói/RJ, one remote with a US-based team where every debate is in English. Outside of that I'm deepening my UX/UI practice, leaning into AI-assisted development, and keeping my GitHub honest with side projects that push me into new territory.
+Right now I'm a Front-end Developer at Conecta, building web applications with React, TypeScript, and modern front-end tooling. Outside of work, I'm deepening my UX/UI practice, leaning into AI-assisted development, and keeping my GitHub honest with side projects that push me into new territory.
 
 <br>
 
